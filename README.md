@@ -1,4 +1,4 @@
-# Price Publishing Application
+# Rate Exchange Publishing Application
 
 ## Overview
 
