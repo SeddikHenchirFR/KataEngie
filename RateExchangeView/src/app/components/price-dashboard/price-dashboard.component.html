@@ -1,0 +1,8 @@
+<div class="dashboard">
+    <div *ngFor="let id of getKeys(groupedRates)" class="card">
+      <h3>{{ groupedRates[id].Pair }}</h3>
+      <p>Rate: {{ groupedRates[id].Rate }}</p>
+      <small>ID: {{ id }}</small>
+    </div>
+  </div>
+  
